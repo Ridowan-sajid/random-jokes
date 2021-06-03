@@ -1,0 +1,16 @@
+body{
+ background-color: aquamarine;
+}
+.first{
+ text-align: center;
+}
+.second{
+
+ background-color: blueviolet;
+ height: 20rem;
+ width: 90%;
+ margin: 10% auto;
+ color: wheat;
+ text-align: center;
+ font-size: 40px;
+}
